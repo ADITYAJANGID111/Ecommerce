@@ -1,2 +1,3 @@
 # Real-Estate
-Real Estate WebApp using MERN and Tailwind CSS
+Ecommerce
+WebApp using MERN and Tailwind CSS
